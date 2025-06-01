@@ -2,7 +2,7 @@
     .name = .web_example,
     .version = "0.0.1",
     .fingerprint = 0x8643350109809bf5,
-    .minimum_zig_version = "0.14.1",
+    .minimum_zig_version = "0.15.0-dev.670+1a08c83eb",
     .dependencies = .{
         .httpz = .{
             .url = "git+https://github.com/karlseguin/http.zig?ref=dev#c9c143c570cfd5e571ef26d4d8ae0fbda90d9431",
